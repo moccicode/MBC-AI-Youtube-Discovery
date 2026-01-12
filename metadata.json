@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Content Discovery & Insight AI",
+  "description": "A powerful dashboard for creators to find viral video patterns by calculating view-to-subscriber ratios and using Gemini 2.5 Flash to analyze comments for new content ideas.",
+  "requestFramePermissions": []
+}
